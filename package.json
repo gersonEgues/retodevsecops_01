@@ -1,0 +1,13 @@
+{
+  "name": "retodevsecops_01",
+  "version": "1.0.0",
+  "description": "Aplicación simple Node.js para reto DevSecOps 01",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No hay tests aún\" && exit 0"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {}
+}
